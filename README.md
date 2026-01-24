@@ -2,8 +2,11 @@
 <h3 align="center">Backend Developer specializing in Scalable Systems & AI-Driven Solutions</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dhanalakshmi282&label=Profile%20views&color=0e75b6&style=flat" alt="dhanalakshmi282" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dhanalakshmi282" alt="dhanalakshmi282" /></a> </p>
+<p align="left"> 
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=dhanalakshmi282&theme=radical&column=7" alt="dhanalakshmi282" />
+  </a> 
+</p>
 
 - 🔭 I’m currently working on **[Tring AI](https://tringlabs.ai/)**, developing scalable backends for AI agent management.
 - 🌱 I’m deepening my expertise in **AI Orchestration (OpenAI/Google LLMs)** and **Microservices Architecture**.
