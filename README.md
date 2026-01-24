@@ -9,11 +9,11 @@
   <img src="https://github-readme-stats.vercel.app/api?username=dhanalakshmi282&show_icons=true&theme=radical" alt="Dhanalakshmi GitHub Stats" />
 </p>
 
-- [cite_start]🔭 I’m currently working on **[Tring AI](https://tringlabs.ai/)**[cite: 14, 15].
-- [cite_start]🌱 I’m currently mastering **NestJS**, **Prisma**, and **Drizzle ORM**[cite: 8, 10].
-- [cite_start]👨‍💻 I specialize in building scalable backends using **Node.js** and **Nuxt/Nitro**[cite: 7, 8].
-- [cite_start]💬 Ask me about **API Development**, **WhatsApp/Meta APIs**, and **PostgreSQL**[cite: 9, 11, 12].
-- [cite_start]📫 Reach me at: **dhanamcse282@gmail.com** [cite: 2]
+- 🔭 I’m currently working on **[Tring AI](https://tringlabs.ai/)**.
+- 🌱 I’m currently mastering **NestJS**, **Prisma**, and **Drizzle ORM**.
+- 👨‍💻 I specialize in building scalable backends using **Node.js** and **Nuxt/Nitro**.
+- 💬 Ask me about **API Development**, **WhatsApp/Meta APIs**, and **PostgreSQL**.
+- 📫 Reach me at: **dhanamcse282@gmail.com**
 - 📄 LinkedIn: [dhanalakshmi-murugan](https://www.linkedin.com/in/dhanalakshmi-murugan/)
 
 <h3 align="left">Connect with me:</h3>
