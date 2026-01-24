@@ -1,19 +1,20 @@
 <h1 align="center">Hi 👋, I'm Dhanalakshmi</h1>
-<h3 align="center">Backend Developer specializing in Scalable Systems & AI-Driven Solutions</h3>
+<h3 align="center">Backend Developer specializing in Scalable Systems & Enterprise Integrations</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dhanalakshmi282&label=Profile%20views&color=0e75b6&style=flat" alt="dhanalakshmi282" /> </p>
-<p align="left"> 
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=dhanalakshmi282&theme=radical&column=7" alt="dhanalakshmi282" />
-  </a> 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=dhanalakshmi282&label=Profile%20views&color=0e75b6&style=flat" alt="dhanalakshmi282" />
 </p>
 
-- 🔭 I’m currently working on **[Tring AI](https://tringlabs.ai/)**, developing scalable backends for AI agent management.
-- 🌱 I’m deepening my expertise in **AI Orchestration (OpenAI/Google LLMs)** and **Microservices Architecture**.
-- 👨‍💻 I specialize in **Node.js, NestJS (Fastify/Express), and PostgreSQL** with modern ORMs like Prisma and Drizzle.
-- 💬 Ask me about **AI Agent integration, WhatsApp/Meta APIs, and scalable backend design**.
-- 📫 Reach me at: **dhanamcse282@gmail.com**
-- 📄 Professional Profile: [LinkedIn](https://www.linkedin.com/in/dhanalakshmi-murugan/)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=dhanalakshmi282&show_icons=true&theme=radical" alt="Dhanalakshmi GitHub Stats" />
+</p>
+
+- [cite_start]🔭 I’m currently working on **[Tring AI](https://tringlabs.ai/)**[cite: 14, 15].
+- [cite_start]🌱 I’m currently mastering **NestJS**, **Prisma**, and **Drizzle ORM**[cite: 8, 10].
+- [cite_start]👨‍💻 I specialize in building scalable backends using **Node.js** and **Nuxt/Nitro**[cite: 7, 8].
+- [cite_start]💬 Ask me about **API Development**, **WhatsApp/Meta APIs**, and **PostgreSQL**[cite: 9, 11, 12].
+- [cite_start]📫 Reach me at: **dhanamcse282@gmail.com** [cite: 2]
+- 📄 LinkedIn: [dhanalakshmi-murugan](https://www.linkedin.com/in/dhanalakshmi-murugan/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -27,17 +28,10 @@
   <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
   <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
   <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dhanalakshmi282&show_icons=true&locale=en&layout=compact" alt="dhanalakshmi282" />
-  <img src="https://github-readme-stats.vercel.app/api?username=dhanalakshmi282&show_icons=true&locale=en" alt="dhanalakshmi282" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dhanalakshmi282&" alt="dhanalakshmi282" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dhanalakshmi282&show_icons=true&locale=en&layout=compact&theme=radical" alt="dhanalakshmi282" />
 </p>
